@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 53b64a8c94de52247be29f79def522c9, type: 3}
+  m_Name: Round 1 red
+  m_EditorClassIdentifier: 
+  SpawnInterval: 0.5
+  SpawnAfter: 0
+  BloonCount: 20
+  BloonType: {fileID: 6795453281657761363, guid: bf9af84408935dd4d8a25f0382dd8b9b, type: 3}
